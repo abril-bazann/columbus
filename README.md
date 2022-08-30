@@ -1,5 +1,5 @@
 # Columbus
-Columbus is a web app about Modern Architecture. Developed with HTML5, CSS3, Bootstrap, Python, Django, JavaScript, React.js hosteada en Heroku.
+Columbus is a web app about Modern Architecture. Developed with HTML5, CSS3, Bootstrap, Python, Django hosteada en Heroku.
 
 # You can find
 - index.html: home (with new posts and definition)
